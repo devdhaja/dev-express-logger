@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/devdhaja/dev-express-logger/issues"
   },
-  "homepage": "https://github.com/devdhaja/dev-express-logger#readme"
+  "homepage": "https://github.com/devdhaja/dev-express-logger#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
