@@ -50,7 +50,7 @@ app.use(bodyParser.json());
  * @type Module logger|Module logger
  * 
  */
-var logger = require("./logger/logger");
+var logger = require("dev-express-logger");
 var appLogger = new logger();
 
 var port = process.env.port | 8080;
