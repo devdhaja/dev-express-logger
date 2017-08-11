@@ -1,6 +1,6 @@
 {
-  "name": "dev-express-logger",
-  "version": "1.0.0",
+  "name": "@devrajdhaja82/dev-express-logger",
+  "version": "0.0.1",
   "description": "Easily admin can create log of perticular route and track the ip and user activity on route. all log file is encrypted so you can set your encryption token",
   "main": "logger.js",
   "scripts": {
