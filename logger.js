@@ -19,7 +19,7 @@ module.exports = class {
      * @desciption Constructor function that initialize this module and load required module
      */
     constructor() {
-        var setLogger = require("./lib/createlogger");
+        var setLogger = require("lib/createlogger");
         this.loggerApp = new setLogger();
         this.setToken();
         this.setLoggerPath();
